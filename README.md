@@ -1,6 +1,6 @@
 # 🧩 SQL Solutions – HackerRank Practice
 
-![Banner](assets/hackerrank-sql-banner.png)
+![Banner](assets/banner.png)
 
 ![SQL](https://img.shields.io/badge/SQL-Practice-blue?style=flat&logo=postgresql&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-brightgreen?style=flat&logo=hackerrank)
